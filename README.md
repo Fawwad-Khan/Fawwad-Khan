@@ -15,6 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawwad-khan&show_icons=true&locale=en&layout=compact" alt="fawwad-khan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawwad-khan&show_icons=true&locale=en" alt="fawwad-khan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fawwad-khan&" alt="fawwad-khan" /></p>
